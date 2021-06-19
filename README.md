@@ -3,4 +3,5 @@ Dynamic monitor of connection of DLUT and CERNET,which allows students and teach
 
 Due to the source of data and safety concerns,the html file can only be used under DLUT's network
 
-It's welcomed to propose any suggestions!
+Feel free to propose any suggestions!
+
